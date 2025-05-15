@@ -1,0 +1,6 @@
+train: "E:/Projects on board/mechanical parts (Bolt,Nut, Washer,Pin) detection/my_washer_dataset/train"
+val: "E:/Projects on board/mechanical parts (Bolt,Nut, Washer,Pin) detection/my_washer_dataset/valid"
+
+
+nc: 3
+names: ['ecrouNOK', 'ecrouOK', 'washer']

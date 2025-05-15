@@ -1,0 +1,7 @@
+train: "E:/Projects on board/mechanical parts (Bolt,Nut, Washer,Pin) detection/my_nut_dataset/train"
+val: "E:/Projects on board/mechanical parts (Bolt,Nut, Washer,Pin) detection/my_nut_dataset/valid"
+
+
+nc: 1
+names: ['Nut Detection - v1 Nut Dataset']
+
